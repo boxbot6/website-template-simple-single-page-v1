@@ -4,7 +4,7 @@
 
 <br>
 
-* [Click this link to visit the website being created from this repository and hosted on github-pages.](https://boxbot6.github.io/website-template-simple-single-page-v1/)
+* [Click this link to visit and try the website being created from this repository and hosted on github-pages.](https://boxbot6.github.io/website-template-simple-single-page-v1/)
 
 <br>
 
