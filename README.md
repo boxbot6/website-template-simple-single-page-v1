@@ -4,7 +4,7 @@
 
 <br>
 
-* [Click this link to view the website being created from this repository and hosted on github-pages.](https://boxbot6.github.io/website-template-simple-single-page-v1/)
+* [Click this link to visit the website being created from this repository and hosted on github-pages.](https://boxbot6.github.io/website-template-simple-single-page-v1/)
 
 <br>
 
@@ -40,3 +40,7 @@
 * Now use 'Settings' to open GitHub Pages (shown as Pages at the bottom of 'Code and automation' in the menu column on the left).
 * Select Source - Deploy from a branch, select main, then save.
 * Wait a few minutes for the website to be created - when its done the https address will be shown in github-pages - copy the link and update the README.md file to show the name of your new website and update the link to the one given for your new site.
+
+<br>
+
+* [Click this link to see more templates.](https://boxbot6.github.io/simple-website-templates/)
