@@ -43,4 +43,9 @@
 
 <br>
 
+---
+
 * [Click this link to see more templates.](https://boxbot6.github.io/simple-website-templates/)
+
+<br>
+
